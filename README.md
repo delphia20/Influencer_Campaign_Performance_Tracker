@@ -159,7 +159,7 @@ Influencer-Campaign-Performance-Dashboard/
 
 ## Author
 
-**Name:** Merlin
+**Name:**J.Merlin Delphia
 
 **Project:** Influencer Campaign Performance Dashboard
 
